@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-09T15:06:24.692Z</updated>
+  <updated>2019-05-15T10:06:29.005Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>回家之后</title>
+    <link href="http://yoursite.com/2019/05/15/2019051500/"/>
+    <id>http://yoursite.com/2019/05/15/2019051500/</id>
+    <published>2019-05-14T16:00:00.000Z</published>
+    <updated>2019-05-15T10:06:29.005Z</updated>
+    
+    <content type="html"><![CDATA[<p>很奇怪啊，讲实话<br>是因为我吗，果然是因为我，要是没有我的话，就好了吧，一回来就吵吵吵<br>但是我又什么都做不到<br>明明只是回来毕业的<br>为什么会这样呢<br>好吧，这个家无论如何还是讨厌我，就像是我害怕他们<br>这东西是刻在骨头里的<br>嗯，刻上去的<br>即使是我或者他们想去隐藏什么或者掩盖什么，总是没有用的<br>之后就离开吧，这次回来顺便带些东西回去</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;很奇怪啊，讲实话&lt;br&gt;是因为我吗，果然是因为我，要是没有我的话，就好了吧，一回来就吵吵吵&lt;br&gt;但是我又什么都做不到&lt;br&gt;明明只是回来毕业的&lt;br&gt;为什么会这样呢&lt;br&gt;好吧，这个家无论如何还是讨厌我，就像是我害怕他们&lt;br&gt;这东西是刻在骨头里的&lt;br&gt;嗯，刻上去的&lt;b
+      
+    
+    </summary>
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="日常" scheme="http://yoursite.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>离职之前的事</title>
